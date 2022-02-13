@@ -1,2 +1,2 @@
-# fps-to-ms
-Utility for converting FPS to milliseconds.
+# fps-to-time
+Utility for converting FPS to time.
